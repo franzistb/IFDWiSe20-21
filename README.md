@@ -16,3 +16,5 @@ Aufgabe 4: <a href="https://franzistb.github.io/IFDWiSe20-21/VUI.png">Voice User
 Aufgabe 5: <a href="https://franzistb.github.io/IFDWiSe20-21/Meine%20Abgabe/VUI_HighFid.html">Voice User Interface High-Fid</a>
 
 Aufgabe 6: <a href="https://franzistb.github.io/IFDWiSe20-21/VR_Cardboard.pdf">VR Cardboard</a>
+
+Aufgabe : <a href="https://franzistb.github.io/IFDWiSe20-21/Aufgabe_9.pdf">Mixed Reality Konzept</a>
