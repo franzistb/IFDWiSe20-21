@@ -17,5 +17,5 @@ Aufgabe 5: <a href="https://franzistb.github.io/IFDWiSe20-21/Meine%20Abgabe/VUI_
 
 Aufgabe 6: <a href="https://franzistb.github.io/IFDWiSe20-21/VR_Cardboard.pdf">VR Cardboard</a>
 
-Aufgabe 7: <a href="https://franzistb.github.io/IFDWiSe20-21/Aufgabe_9.pdf">Mixed Reality Konzept + Video</a>
+Aufgabe 7: <a href="https://franzistb.github.io/IFDWiSe20-21/Aufgabe9.pdf">Mixed Reality Konzept + Video</a>
 
