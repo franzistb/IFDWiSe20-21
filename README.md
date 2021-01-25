@@ -20,4 +20,3 @@ Aufgabe 6: <a href="https://franzistb.github.io/IFDWiSe20-21/VR_Cardboard.pdf">V
 Aufgabe 7: <a href="https://franzistb.github.io/IFDWiSe20-21/Aufgabe9.pdf">Mixed Reality Konzept + Video</a>
 
 Aufgabe 8: <a href="https://franzistb.github.io/IFDWiSe20-21/VR_High_Fid.pdf">Mixed Reality High Fid</a>
-<a href="https://github.com/franzistb/IFDWiSe20-21/blob/main/VR_High_Fid.pdf">Mixed Reality High Fid</a>
